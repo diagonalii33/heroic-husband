@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
     { img: "./page1.png", alt: "Comic page 1", text: "Page 1: Mini story about us for my dear husband. Happy Valentines! ^^" },
     { img: "./page2.png", alt: "Comic page 2", text: "Page 2: One day it was a very sad Diana the Sorcerer." },
     { img: "./page3.png", alt: "Comic page 3", text: "Page 3: She was fighting with her monsters using all her powers, but was always weaker than them." },
-    { img: "./page4.png", alt: "Comic page 4", text: "Page 4: But then Manu the Wizard suddenly came into her life. He casted the fireballs and the monsters got terrified and ran away." },
+    { img: "./page4.png", alt: "Comic page 4", text: "Page 4: But then Manu the Wizard suddenly came into her life. He casted fireballs and the monsters got terrified and ran away." },
     { img: "./page5.png", alt: "Comic page 5", text: "Page 5: They fell in love and soon got married. They live happily ever after, playing video games together and fighting the battles with different bosses: Jobsuche, Dirty dishes and Minas toilet (can u clean it please thanks)." },
     { img: "./page6.png", alt: "Comic page 6", text: "Page 6: U r the best Husband ever!!! Thank u for being here for me and never leaving my side!!! Even tho u laughed at me today when I fell of my chair I still love!!!" }
   ];
